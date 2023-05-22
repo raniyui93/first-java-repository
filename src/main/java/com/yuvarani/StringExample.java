@@ -11,7 +11,7 @@ public class StringExample {
     }
     static int i = 0;
     public static String country() {
-        String name2 = "I love my country is a statement";
+        String name2 = "I love my country is a statement  ";
         int m = name2.length() - 1;
         for (i = m; i >= 0; i--) {
             System.out.print(name2.charAt(i));
