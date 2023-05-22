@@ -1,6 +1,6 @@
 package com.yuvarani;
 
-public class HelloWorld {
+public class StringExample {
     public static void main(String[] args) {
         String name1 = "i love my country";
         for (i = 0; i < name1.length(); i++) {
